@@ -1,3 +1,6 @@
+---
+title: AVH MoU Technical Addendum
+---
 This document is an addendum to the Memorandum of Understanding for the Australasian Virtual Herbarium (AVH). It is a separate document from the MoU, so that it can be more easily updated in order to keep up with changing requirements. This document covers the technical aspects of provision of data to AVH, such as delivery mechanism, frequency of delivery and quality and completeness of the provided data. CHAH and HISCOM understand that not all herbaria will be able to meet all requirements from the moment they sign the MoU or start providing data to AVH, but we do expect that AVH providers commit to making their best effort to meet the requirements in the near future.
 
 ## Summary
