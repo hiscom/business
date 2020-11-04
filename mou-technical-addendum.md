@@ -70,6 +70,7 @@ There are a number of required and highly recommended fields that will be listed
 * [parentEventID](http://hiscom.rbg.vic.gov.au/hispid/terms/bushBlitzExpedition) (BushBlitz participants only)
 * [identificationQualifier](https://hiscom.github.io/hispid/terms/#identificationQualifier)
 * [identifiedBy](https://hiscom.github.io/hispid/terms/#identifiedBy)
+* [identifiedByID](https://rs.gbif.org/terms/1.0/identifiedByID)
 * [identificationDate](https://hiscom.github.io/hispid/terms/#identificationDate)
 * [typeStatus](https://hiscom.github.io/hispid/terms/#typeStatus)
 * [scientificName](https://hiscom.github.io/hispid/terms/#scientificName)
@@ -82,11 +83,12 @@ There are a number of required and highly recommended fields that will be listed
 ### Highly recommended fields
 
 * [recordedBy](https://hiscom.github.io/hispid/terms/#recordedBy)
+* [recordedByID](https://rs.gbif.org/terms/1.0/recordedByID)
 * [recordNumber](https://hiscom.github.io/hispid/terms/#recordNumber)
 * [eventRemarks](https://hiscom.github.io/hispid/terms/#eventRemarks)
 * [georeferencedBy](https://hiscom.github.io/hispid/terms/#georeferencedBy)
 * [georeferenceProtocol](https://hiscom.github.io/hispid/terms/#georeferenceProtocol)
-* [minimumElevationInMeters](https://hiscom.github.io/hispid/terms/#minimumElevationInMeters),&nbsp;[maximumElevationinMeters](https://hiscom.github.io/hispid/terms/#maximumElevationInMeters)
+* [minimumElevationInMeters](https://hiscom.github.io/hispid/terms/#minimumElevationInMeters), [maximumElevationinMeters](https://hiscom.github.io/hispid/terms/#maximumElevationInMeters)
 * [habitat](https://hiscom.github.io/hispid/terms/#habitat)
-* Higher taxonomy:&nbsp;[family](https://hiscom.github.io/hispid/terms/#family),&nbsp;[order](https://hiscom.github.io/hispid/terms/#order),&nbsp;[class](https://hiscom.github.io/hispid/terms/#class),&nbsp;[phylum](https://hiscom.github.io/hispid/terms/#phylum),&nbsp;[kingdom](https://hiscom.github.io/hispid/terms/#kingdom)
+* Higher taxonomy: [family](https://hiscom.github.io/hispid/terms/#family), [order](https://hiscom.github.io/hispid/terms/#order), [class](https://hiscom.github.io/hispid/terms/#class), [phylum](https://hiscom.github.io/hispid/terms/#phylum), [kingdom](https://hiscom.github.io/hispid/terms/#kingdom)
 * [identificationRemarks](https://hiscom.github.io/hispid/terms/#identificationRemarks)
