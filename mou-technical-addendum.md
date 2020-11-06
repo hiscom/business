@@ -27,7 +27,7 @@ management systems, like MySQL and PostgreSQL, or load CSV files and publishes
 out the data as Darwin Core Archives. ALA can connect directly to IPT data 
 resources. AVH Providers can set up their own IPT, which is recommended for 
 Australian Commonwealth, state and territory herbaria. ALA will also make an IPT 
-available for ALA data providers to use (for uploading CSV files). While tthis 
+available for ALA data providers to use (for uploading CSV files). While this 
 is not yet available, AVH providers can use the Royal Botanic Gardens Victoria 
 IPT. New Zealand herbaria provide their data through an IPT that is hosted by 
 Manaaki Whenua/Landcare Research.
@@ -45,7 +45,7 @@ Data in AVH should be refreshed at least once a year.
 
 The fields that can be delivered to AVH are listed below and are explained on 
 the [HISPID website](https://hiscom.github.io/hispid/terms/). A somewhat 
-outdated pages that might still be helpful while we keep improving the HISPID 
+outdated page that might still be helpful while we keep improving the HISPID 
 site is also available on the [HISCOM Wiki](https://hiscom.rbg.vic.gov.au/wiki/AVH_data).
 
 There are a number of required and highly recommended fields that will be listed under the subheadings below. In order to get the most value out of AVH as both a research and curation tool it is highly recommended to deliver as many of the other fields as possible.
