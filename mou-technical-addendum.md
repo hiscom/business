@@ -67,7 +67,7 @@ There are a number of required and highly recommended fields that will be listed
 * [decimalLatitude](https://hiscom.github.io/hispid/terms/#decimalLatitude)
 * [coordinateUncertaintyInMeters](https://hiscom.github.io/hispid/terms/#coordinateUncertaintyInMeters)
 * [eventDate](https://hiscom.github.io/hispid/terms/#eventDate)
-* [parentEventID](http://hiscom.rbg.vic.gov.au/hispid/terms/bushBlitzExpedition) (BushBlitz participants only)
+* [parentEventID](https://hiscom.github.io/hispid/terms/#parentEventID) (BushBlitz participants only)
 * [identificationQualifier](https://hiscom.github.io/hispid/terms/#identificationQualifier)
 * [identifiedBy](https://hiscom.github.io/hispid/terms/#identifiedBy)
 * [identifiedByID](https://rs.gbif.org/terms/1.0/identifiedByID)
