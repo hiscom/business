@@ -26,7 +26,7 @@
 
 [*List the system state/conditions which must be true before this Use Case can be executed.*]
 
-## 1.5. Main Success Scenario
+## 1.5. Main success scenario
 
 [*Document the steps that illustrate the straightest or simplest path (the “happy path”) to accomplishing the goal. The main success scenario should describe the actors’ actions/stimuli and system response to the action or stimulus. This scenario should always end with a success end condition.*]
 
