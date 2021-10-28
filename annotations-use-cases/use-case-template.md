@@ -2,17 +2,17 @@
 
 ## 1.1. Description
 
-[*One to two sentences that briefly describe the use case, including the primary actor’s goal*]
+[*One to two sentences that briefly describe the use case, including the primary actor’s goal*.]
 
 ## 1.2. Trigger
 
-[*Describe the event that initiates the use case*]
+[*Describe the event that initiates the use case.*]
 
 ## 1.3. Stakeholders
 
 ### 1.3.1. Primary actor
 
-[*Designate the actor whose goal is satisfied in this use case, and has the most significant interest in the outcome*]
+[*Designate the actor whose goal is satisfied in this use case, and has the most significant interest in the outcome.*]
 
 ### 1.3.2. Additional/supporting actors
 
@@ -37,3 +37,7 @@
 ## 1.7. Special requirements
 
 [*Describe any additional factors that impact the execution of the use case. These could be environmental, regulatory, organizational or market-driven in nature.*]
+
+## 1.8. Other
+
+[*Any other information that might be useful, but does not fit in the sections above.*]
