@@ -9,7 +9,7 @@ title and description of the use case will suffice, but any additional
 information that might help people better understand the use case will be
 helpful.
 
-# 1. Use case: [Advising herbaria of redetermination of duplicates]
+# 1. Use case: Advising herbaria of redetermination of duplicates
 
 ## 1.1. Description
 
