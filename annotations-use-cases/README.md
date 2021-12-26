@@ -8,3 +8,5 @@ We will have a workshop about annotations early next year (2022), so for now a
 title and description of the use case will suffice, but any additional
 information that might help people better understand the use case will be
 helpful.
+
+When creating a new use case, please create a new Markdown file and copy the contents of the template into it.
