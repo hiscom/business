@@ -12,7 +12,7 @@ The redetermination of a specimen that has duplicates at other herbaria.
 
 ### 1.3.1. Primary actor
 
-Curators at herbaria that hold duplicates of the speicmen that has been redetermined.
+Curators at herbaria that hold duplicates of the specimen that has been redetermined.
 
 ### 1.3.2. Additional/supporting actors
 
